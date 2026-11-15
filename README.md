@@ -1,5 +1,4 @@
-# IMPACTOS LOCAIS DA INFRAESTRUTURA CICLOVIÁRIA: UMA
-ANÁLISE PARA A CIDADE DE NITERÓI
+# IMPACTOS LOCAIS DA INFRAESTRUTURA CICLOVIÁRIA: UMA ANÁLISE PARA A CIDADE DE NITERÓI
 
 Este é o repositório no qual todos os processos de manejo de microdados e inferência causal utilizados na minha dissertação foram realizados. As pastas de bibliografia e dados brutos foram excluídos por conterem dados sensíveis que não podem ser disponibilizados ao público.
 
