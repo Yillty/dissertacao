@@ -1,0 +1,24 @@
+
+Call:
+aggte(MP = regj_attgt, type = "group", alp = alp)
+
+Reference: Callaway, Brantly and Pedro H.C. Sant'Anna.  "Difference-in-Differences with Multiple Time Periods." Journal of Econometrics, Vol. 225, No. 2, pp. 200-230, 2021. <https://doi.org/10.1016/j.jeconom.2020.12.001>, <https://arxiv.org/abs/1803.09015> 
+
+
+Overall summary of ATT's based on group/cohort aggregation:  
+     ATT    Std. Error     [ 90%  Conf. Int.] 
+ -0.7821        1.8387    -3.8066      2.2423 
+
+
+Group Effects:
+ Group Estimate Std. Error [90% Simult.  Conf. Band] 
+  2016  -0.9448     1.7626       -4.0394      2.1498 
+  2017  -2.1847     3.0136       -7.4758      3.1063 
+  2019  -0.7588     4.3027       -8.3130      6.7954 
+  2020  -1.2603     3.2621       -6.9875      4.4670 
+  2021  -0.1106     1.3123       -2.4146      2.1935 
+---
+Signif. codes: `*' confidence band does not cover 0
+
+Control Group:  Never Treated,  Anticipation Periods:  0
+Estimation Method:  Doubly Robust
